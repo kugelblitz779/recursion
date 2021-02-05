@@ -1,1 +1,7 @@
-1 2 3 4 5 
+Move 1 from src to dest using helper
+Move 2 from src to helper using dest
+Move 1 from dest to helper using src
+Move 3 from src to dest using helper
+Move 1 from helper to src using dest
+Move 2 from helper to dest using src
+Move 1 from src to dest using helper
