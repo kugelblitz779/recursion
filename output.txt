@@ -1,16 +1,8 @@
--> 
--> d
--> c
--> cd
--> b
--> bd
--> bc
--> bcd
--> a
--> ad
--> ac
--> acd
--> ab
--> abd
--> abc
--> abcd
+a_b_c_d
+a_b_cd
+a_bc_d
+a_bcd
+ab_c_d
+ab_cd
+abc_d
+abcd
