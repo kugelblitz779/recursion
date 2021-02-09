@@ -1,8 +1,8 @@
-a_b_c_d
-a_b_cd
-a_bc_d
-a_bcd
-ab_c_d
-ab_cd
-abc_d
-abcd
+ABC
+ABc
+AbC
+Abc
+aBC
+aBc
+abC
+abc
